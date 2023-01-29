@@ -3,5 +3,6 @@ A copy of this script: https://learn.microsoft.com/en-us/powershell/scripting/in
 Bash commands:
 
 ```bash
-wget
+wget https://raw.githubusercontent.com/Jammrock/Install-PwshUbuntu/main/Install-Pwsh.sh
+sudo bash ./Install-Pwsh.sh
 ```
